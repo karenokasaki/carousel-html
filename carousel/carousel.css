@@ -1,0 +1,9 @@
+.cta,
+a[data-ms-action="default-product"] {
+  text-decoration: none;
+}
+
+.container-carousel {
+  background-color: #f0ece4;
+  padding: 40px;
+}
